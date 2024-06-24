@@ -31,23 +31,34 @@ Git /
 Node.js /
 npm (Node Package Manager)
 
+🛠️ Setup
+---------
 Clone the repository and navigate to the project directory:
 
 ```
-git clone https://github.com/JavaScript-Mastery-Pro/brainwave.git
+git clone https://github.com/haneenmohmed/Brainwave-AI.git
 cd brainwave
 ```
 
-Installation
+📦 Installation
 ---------------
 Install the project dependencies using npm:
 ```
 npm install
 ```
-Running the Project
+🚀 Running the Project
 --------------------
 Start the development server:
 ```
 npm run dev
 ```
 Open your browser and navigate to http://localhost:5173 to view the project.
+
+📬 Contact
+------------
+For any inquiries or feedback, please feel free to reach out:
+Email: haneenmohmed0@gmail.com
+
+// ui/ux used are created by jsMastery.
+
+
