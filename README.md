@@ -25,8 +25,13 @@ Additional features include a well-structured code architecture promoting reusab
 🤸 Quick Start
 -------------------
 Follow these steps to set up the project locally.
-Ensure you have the following installed on your machine:
+
+Ensure you have the following installed on your machine
 ------------------------------------------------------------
+Git
+Node.js
+npm (Node Package Manager)
+
 Clone the repository and navigate to the project directory:
 
 ```
